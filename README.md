@@ -68,7 +68,7 @@ XF_INIT_EXPORT_DEVICE(device_test);
 
 ```c
 
-XF_INIT_REGISTER_DEVICE(device_test);
+XF_INIT_REGISTER(device_test);
 
 ```
 
